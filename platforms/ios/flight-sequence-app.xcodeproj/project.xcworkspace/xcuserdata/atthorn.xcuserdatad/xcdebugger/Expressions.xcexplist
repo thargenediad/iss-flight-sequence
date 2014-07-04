@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[NSString(CDVJSONSerializing) JSONObject]:CDVJSON.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SMAPPlugin sendJSON:]:SMAPPlugin.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[command argumentAtIndex:2]">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "smapObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NSArray(CDVJSONSerializing) JSONString]:CDVJSON.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SMAPPlugin sendRequest:]:SMAPPlugin.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "[command argumentAtIndex:0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SMAPPlugin smapServiceDidFinish:]:SMAPPlugin.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(NSDictionary*) [smapMessageData.response.dataAsString]">
+            </PersistentString>
+            <PersistentString
+               value = "(NSDictionary*) [smapMessageData.response.dataAsString JSONObject]">
+            </PersistentString>
+            <PersistentString
+               value = "[data description]">
+            </PersistentString>
+            <PersistentString
+               value = "smapMessageData.response.dataAsString">
+            </PersistentString>
+            <PersistentString
+               value = "[smapMessageData.response dataAsString]">
+            </PersistentString>
+            <PersistentString
+               value = "[pluginResult toSuccessCallbackString:smapObject.callbackId]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
